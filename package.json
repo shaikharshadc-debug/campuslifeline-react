@@ -1,3 +1,5 @@
+"predeploy": "npm run build",
+"deploy": "gh-pages -d dist",
 {
   "name": "campuslifeline",
   "version": "1.0.0",
